@@ -1,5 +1,0 @@
-Host Bear
-    HostName {ip}
-    Port {port}
-    User {username}
-    PubkeyAuthentication no
